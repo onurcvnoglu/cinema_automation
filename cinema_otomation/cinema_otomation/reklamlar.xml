@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<Advertisements>
+
+  <Ad>
+    <ImageUrl>~\reklamlar\reklam1.jpg</ImageUrl>
+    <NavigateUrl>https://www.burgerking.com.tr/</NavigateUrl>
+    <AlternateText>Burger King Menü</AlternateText>
+    <Keyword>Food</Keyword>
+    <Impressions>60</Impressions>
+  </Ad>
+</Advertisements>
